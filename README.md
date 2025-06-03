@@ -14,27 +14,3 @@ We are going to:
 3. Populate missing rows
 4. Drop unneeded columns
 5. Split columns
-Netflix Data: Cleaning, Analysis, and Visualization
-This project involves loading, cleaning, analyzing, and visualizing data from a Netflix
-dataset. We'll use Python libraries like Pandas, Matplotlib, and Seaborn to work
-through the project. The goal is to explore the dataset, derive insights, and prepare
-for potential machine learning tasks.
-1.Step 1: Import Required Libraries
-2.Step 2: Load the Dataset
-3.Step 3: Data Cleaning
-4.Step 4: Exploratory Data Analysis (EDA)
-5.Step 5: Conclusion and Insights
-In this project, we:
-1. Cleaned the data by handling missing values, removing duplicates, and
-converting data types.
-2. Explored the data through various visualizations such as bar plots and word
-clouds.
-3. Analyzed content trends over time, identified popular genres, and highlighted
-top directors.
-6.Step 6: Next Steps
-1. Feature Engineering: Create new features, such as counting the number of
-genres per movie or extracting the duration in minutes.
-2. Machine Learning: Use the cleaned and processed data to build models for
-recommendations or trend predictions.
-3. Advanced Visualization: Use interactive plots or dashboards for more detailed
-analysis.
